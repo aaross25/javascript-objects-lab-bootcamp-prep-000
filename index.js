@@ -25,3 +25,5 @@ function destructivelyDeleteFromObjectByKey(object,key)
   delete object.key
   return object
 }
+
+destructivelyDeleteFromObjectByKey(a,b)
